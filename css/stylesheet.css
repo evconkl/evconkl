@@ -16,7 +16,7 @@ body {
     width: 1200px;
     text-align: center;
     position: absolute;
-    margin-left: 55px;
+    margin-left: -80px;
     margin-right: auto;
     margin-top: 70px;
     left: 0;
@@ -107,7 +107,7 @@ figcaption {
     border-radius: 50%;
     position: absolute;
     top: 850px;
-    left: 200px;
+    left: 100px;
 }
 
 #img01:hover {
@@ -120,7 +120,7 @@ figcaption {
     float: right;
     position: absolute;
     top: 1580px;
-    left: 400px;
+    left: 275px;
     border-radius: 10px;
 }
 
